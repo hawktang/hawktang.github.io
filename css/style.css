@@ -461,6 +461,11 @@ ul.ul-card li .description p.where {
 	font-size: 14px;
 }
 
+ul.ul-card li .description p.company {
+	
+	font-size: 20px;
+}
+
 /* ul-dates
  **************************************************/
 ul.ul-dates,ul.ul-dates-gray {
