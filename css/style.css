@@ -452,7 +452,7 @@ ul.ul-card li .dy .year {
 }
 
 ul.ul-card li .description p {
-	font-size: 16px;
+	font-size: 14px;
 	margin: 0;
 }
 
@@ -464,6 +464,16 @@ ul.ul-card li .description p.where {
 ul.ul-card li .description p.company {
 	
 	font-size: 20px;
+}
+
+ul.ul-card li .description p.title {
+	
+	font-size: 18px;
+}
+
+ul.ul-card li .description p.subtitle {
+	
+	font-size: 16px;
 }
 
 /* ul-dates
