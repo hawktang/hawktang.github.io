@@ -1,3 +1,10 @@
+/*border defult style*/
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 /* General styles
  **************************************************/
 @font-face {
@@ -40,9 +47,31 @@ a,a:hover,a:focus {
 	outline: 0;
 }
 
-h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+.h1,.h2,.h3,.h4,.h5,.h6 {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
+}
+
+.h7{
+	font-size: 16px;
+}
+.h6{
+	font-size: 18px;
+}
+.h5{
+	font-size: 20px;
+}
+.h4{
+	font-size: 22px;
+}
+.h3{
+	font-size: 24px;
+}
+.h2{
+	font-size: 26px;
+}
+.h1{
+	font-size: 28px;
 }
 
 /* mobile menu
@@ -157,7 +186,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 #profile .portrate {
-	background-image: url("../img/personal/Avatar.jpg");
+	background-image: url("../img/personal/miaozhuli-avatar.jpg");
 	width: 125px;
 	margin: 0 auto;
 	height: 125px;
@@ -271,7 +300,7 @@ ul#navigation li .icon {
 
 .social-icons li {
 	float: left;
-	width: 25%;
+	width: 33%;
 	padding: 10px;
 	text-align: center;
 }
@@ -452,28 +481,13 @@ ul.ul-card li .dy .year {
 }
 
 ul.ul-card li .description p {
-	font-size: 14px;
+	font-size: 16px;
 	margin: 0;
 }
 
 ul.ul-card li .description p.where {
 	font-weight: 300;
 	font-size: 14px;
-}
-
-ul.ul-card li .description p.company {
-	
-	font-size: 20px;
-}
-
-ul.ul-card li .description p.btitle {
-	
-	font-size: 18px;
-}
-
-ul.ul-card li .description p.stitle {
-	
-	font-size: 16px;
 }
 
 /* ul-dates
