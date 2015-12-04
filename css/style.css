@@ -489,7 +489,7 @@ ul.ul-card li .dy .year {
 	margin-left: -3px !important;
 }
 
-ul.ul-card li .description p.where {
+.detail{
 	font-weight: 300;
 	font-size: 14px;
 }
