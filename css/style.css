@@ -47,31 +47,40 @@ a,a:hover,a:focus {
 	outline: 0;
 }
 
-.h1,.h2,.h3,.h4,.h5,.h6 {
+.h7{
+	font-size: 16px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
-
-.h7{
-	font-size: 16px;
-}
 .h6{
 	font-size: 18px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
 .h5{
 	font-size: 20px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
 .h4{
 	font-size: 22px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
 .h3{
 	font-size: 24px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
 .h2{
 	font-size: 26px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
 .h1{
 	font-size: 28px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 300;
 }
 
 /* mobile menu
