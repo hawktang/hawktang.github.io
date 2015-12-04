@@ -53,39 +53,40 @@ a,a:hover,a:focus {
 }
 
 .hl1{
-	font-size: 16px;
-	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
-}
-.hl2{
 	font-size: 18px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
+	color: #777;
 }
-.hl3{
+.hl2{
 	font-size: 20px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 }
-.hl4{
+.hl3{
 	font-size: 22px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 }
-.hl5{
+.hl4{
 	font-size: 24px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 }
-.hl6{
+.hl5{
 	font-size: 26px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 }
-.hl7{
+.hl6{
 	font-size: 28px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
+}
+.hl7{
+	font-size: 30px;
+	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-weight: 400;
 }
 
 /* mobile menu
