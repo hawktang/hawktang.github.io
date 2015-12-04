@@ -47,17 +47,22 @@ a,a:hover,a:focus {
 	outline: 0;
 }
 
-.hl7{
+.detail{
+	font-weight: 300;
+	font-size: 14px;
+}
+
+.hl1{
 	font-size: 16px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
-.hl6{
+.hl2{
 	font-size: 18px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
-.hl5{
+.hl3{
 	font-size: 20px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
@@ -67,17 +72,17 @@ a,a:hover,a:focus {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
-.hl3{
+.hl5{
 	font-size: 24px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
-.hl2{
+.hl6{
 	font-size: 26px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
 }
-.hl1{
+.hl7{
 	font-size: 28px;
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 	font-weight: 300;
@@ -489,10 +494,7 @@ ul.ul-card li .dy .year {
 	margin-left: -3px !important;
 }
 
-.detail{
-	font-weight: 300;
-	font-size: 14px;
-}
+
 
 /* ul-dates
  **************************************************/
