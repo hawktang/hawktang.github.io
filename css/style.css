@@ -50,6 +50,7 @@ a,a:hover,a:focus {
 .detail{
 	font-weight: 300;
 	font-size: 14px;
+	text-indent: 10px;
 }
 
 .hl1{
